@@ -1,4 +1,4 @@
-# DashBoard Project HTML & CSS & JS
+# DashBoard Project HTML & CSS 
 
 - Responsive page 
 
